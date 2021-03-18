@@ -1,5 +1,9 @@
 # Royal Holloway Astrophysics Residential 2021
 
+Hello and welcome to the Astrophysics Residential Programming page! Click the image below if you'd like to watch a video introduction, or skip straight to "getting started" below.
+
+<a href=https://youtu.be/fifbaTbfWPo> <img src="thumbnails/getting_started.png" alt="Video to describe how to get started" width="300" class="center"> </a>
+
 ## Getting started
 
 * **Step 1**: Click here to go to Google Colab: https://colab.research.google.com/
@@ -7,7 +11,3 @@
 * **Step 3**: Select which notebook you want to run
   - `Getting_started.ipynb`: start with this notebook to learn the basics of Python
   - `Estimating_pi_with_random_numbers.ipynb`: Then open this notebook where we estimate pi with random numbers!
-
-If you are unsure how to get started, click the image below to watch a short video stepping through the getting started steps
-
-<a href=https://youtu.be/py7RZ6-9teM> <img src="thumbnails/getting_started.png" alt="Getting started" width="300" class="center"> </a>
